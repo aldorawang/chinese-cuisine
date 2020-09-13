@@ -3,7 +3,6 @@ Chinese Cuisine
 This 6-page website helps you find the right Chinese cuisine type to try.
 
 images from
-
 https://n.sinaimg.cn/sinacn10114/350/w1200h750/20191129/94df-iixnuaa5340369.jpg
 
 https://cp1.douguo.com/upload/caiku/a/9/c/yuan_a95341d850ab3bcee8f3712f51e8092c.jpg
