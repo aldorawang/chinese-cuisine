@@ -1,0 +1,1 @@
+The index is the first page you see. It links to the question page. Then you have three opions. Each opion links to a different page. The three different pages all connect to the same final page, which can link you back to the index to try again.
